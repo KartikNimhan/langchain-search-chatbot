@@ -1,0 +1,25 @@
+# LangChain Core + Integrations
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+langchain-chroma
+
+# Vector DB
+chromadb
+
+# LLMs + Transformers
+huggingface-hub
+
+# Document Handling
+PyPDF2
+wikipedia
+
+# Utils / Other Tools
+arxiv
+streamlit
+python-dotenv
+sentence-transformers
+faiss-gpu
+duckduckgo-search
