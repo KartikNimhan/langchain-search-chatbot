@@ -10,7 +10,7 @@ The chatbot thinks step-by-step and shows its reasoning using LangChain's Stream
 
 ## 🖼️ Demo UI
 
-![Demo Screenshot](https://user-images.githubusercontent.com/your-image.png) <!-- optional placeholder -->
+![Image](https://github.com/user-attachments/assets/20810113-74e9-418c-9bbc-353d156d6377)
 
 ---
 
